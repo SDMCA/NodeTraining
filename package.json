@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "A test project",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SDMCA/NodeTraining.git"
+  },
+  "author": "SDM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SDMCA/NodeTraining/issues"
+  },
+  "homepage": "https://github.com/SDMCA/NodeTraining#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0"
+  }
+}
